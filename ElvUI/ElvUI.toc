@@ -1,0 +1,12 @@
+diff --git a/ElvUI/ElvUI.toc b/ElvUI/ElvUI.toc
+index f0646be..b3c3a7e 100644
+--- a/ElvUI/ElvUI.toc
++++ b/ElvUI/ElvUI.toc
+@@ -1,6 +1,6 @@
+ ## Interface: 60000
+ ## Author: Elv
+-## Version: 7.77
++## Version: 7.78
+ ## Title: |cff1784d1ElvUI|r
+ ## Notes: User Interface replacement AddOn for World of Warcraft.
+ ## SavedVariables: ElvDB, ElvPrivateDB
